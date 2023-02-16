@@ -1,1 +1,1 @@
-C programming radme
+c. readme
